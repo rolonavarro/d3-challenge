@@ -9,3 +9,4 @@
 * Clone this repo to your computer 
 * Open Visual Studio
 * Open a live server to check out the graph
+  *  https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
