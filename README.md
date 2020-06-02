@@ -6,7 +6,5 @@
 * The current data set incldes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
 ### Instructions
-* Clone this repo to your computer 
-* Open Visual Studio
-* Open a live server to check out the graph
-  *  https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+* You can see the scatter plot by clicking this link
+ * https://rolonavarro.github.io/d3-challenge/
